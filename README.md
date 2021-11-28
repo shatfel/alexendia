@@ -2,9 +2,11 @@
 
 - [alexendia](#alexendia)
   - [О чём это фсё??](#о-чём-это-фсё)
-  - [Установка](#установка)
   - [Полезные хаки](#полезные-хаки)
-  - [Настройка сервисов](#настройка-сервисов)
+  - [Сервисы](#сервисы)
+    - [Установка](#установка)
+    - [Настройка](#настройка)
+      - [PF](#pf)
 
 ## О чём это фсё??
 
@@ -13,12 +15,6 @@ This is a try to save some interesting things and hooks for everywhere and for p
 Thanks for reading.
 
 Best regards, shatfel@gmail.com.
-
-## Установка
-
-```
-git clone https://github.com/shatfel/public-docs
-```
 
 ## Полезные хаки
 
@@ -30,11 +26,14 @@ git clone https://github.com/shatfel/public-docs
    1. [Настройка окружения](docs/tools-and-hacks/git-env.md)
    2. [Работа с двумя копиями репы](docs/tools-and-hacks/git-two-remotes.md)
 
-## Настройка сервисов
-
+## Сервисы
+### Установка
 1. [Установка Seafile Server CE вертки 8.x](docs/services-config/seafile-server-8x-install.md)
 2. [Установка matrix-synapse self-hosted + tls + федерация](https://github.com/shatfel/matrix-template)**(Переписать как отдельную статью)**
 3. Настройка aria2c + AriaNg + скрипт для запуска**(на скорую руку, суть в логике, а рюшки - сами или на хуй)**
-4. [Минимальный рабочий конфиг pf firewall для FreeBSD](docs/services-config/pf-minimal.md)
-5. [Минимальный рабочий конфиг pf firewall для FreeBSD-2 (macros)](docs/services-config/pf-minimal-macroses.md)
-6. [Минимальный рабочий конфиг pf firewall для FreeBSD-2 (macros)](docs/services-config/pf-minimal-soso.md)
+   
+### Настройка
+#### PF
+1. [Минимальный рабочий конфиг pf firewall для FreeBSD](docs/services-config/pf-minimal.md)
+2. [Минимальный рабочий конфиг pf firewall для FreeBSD-2 (macros)](docs/services-config/pf-minimal-macroses.md)
+3. [Минимальный рабочий конфиг pf firewall для FreeBSD-2 (macros)](docs/services-config/pf-minimal-soso.md)
