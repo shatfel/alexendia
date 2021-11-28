@@ -25,6 +25,7 @@ Best regards, shatfel@gmail.com.
 5. Git
    1. [Настройка окружения](docs/tools-and-hacks/git-env.md)
    2. [Работа с двумя копиями репы](docs/tools-and-hacks/git-two-remotes.md)
+6. [PowerShell в бинарный файл (ps2exe)](docs/tools-and-hacks/ps2exe.md)
 
 ## Сервисы
 ### Установка
