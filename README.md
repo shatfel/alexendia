@@ -27,6 +27,7 @@ Best regards, shatfel@gmail.com.
    2. [Работа с двумя копиями репы](docs/tools-and-hacks/git-two-remotes.md)
 6. [PowerShell в бинарный файл (ps2exe)](docs/tools-and-hacks/ps2exe.md)
 7. [Ffmpeg запись видео с экрана в Windows](docs/tools-and-hacks/ffmpeg-screen-caprure-win-.md)
+8. [Генерация html-ки со списком файлов и ссылками на основе YAML-конфига с перегенерацией](docs/tools-and-hacks/gen-config-and-html-for-files.md)
 ## Сервисы
 ### Установка
 1. [Установка Seafile Server CE вертки 8.x](docs/services-config/seafile-server-8x-install.md)
